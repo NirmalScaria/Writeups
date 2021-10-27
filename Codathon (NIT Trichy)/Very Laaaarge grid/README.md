@@ -48,4 +48,4 @@ Even though the BFS is pretty conventional, there are few things customised. So,
 
 Keep doing this as long as there are possible routes left in the **q** and by the end, we will be having our shortest path stored in the min_distance variable.
 
-**If you enjoyed reading this, a follow on GitHub would be nice. I will try to write and share useful stuff here. **
+**If you enjoyed reading this, a follow on GitHub would be nice. I will try to write and share useful stuff here.**
